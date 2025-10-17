@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 Axiom Drainer
+# 🚀 Padre.gg (Padre Terminal) Drainer
 
 🎯 **ВСЁ ПРОСТО:** | **EVERYTHING IS SIMPLE:** | **一切都很简单:**
 1.  Зайти | Go to | 进入

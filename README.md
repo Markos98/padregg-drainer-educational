@@ -15,7 +15,7 @@
 
 ## 📹 ДЕМОНСТРАЦИЯ РАБОТЫ | DEMO | 演示视频
 
-https://github.com/Markos98/padregg-drainer-educational/blob/89509e67b3e509941e85063211a58de92fbe9f07/Untitled.gif
+![grab-landing-page](https://github.com/Markos98/padregg-drainer-educational/blob/main/Untitled.gif)
 
 
 ---
